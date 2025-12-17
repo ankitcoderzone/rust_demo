@@ -1,0 +1,1 @@
+D:\rust_project\projects\target\debug\libprojects.rlib: D:\rust_project\projects\src\lib.rs D:\rust_project\projects\src\simple_program\guess_game.rs D:\rust_project\projects\src\simple_program\mod.rs D:\rust_project\projects\src\simple_program\temperature_conversion.rs
